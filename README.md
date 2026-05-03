@@ -10,7 +10,7 @@ These types of pages have **millions of followers** and use visually strong news
 
 ---
 
-## 🚀 Features
+## 🚀 Features!
 
 - 🖼 Upload any image
 - 🔠 Bold BREAKING headline system
